@@ -1,1 +1,3 @@
-# digital-health-project
+------------------------------------------------------------------------
+# Digital Health and Human Behavior 2021 project: Depression analysis
+------------------------------------------------------------------------
