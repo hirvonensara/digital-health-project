@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 # Digital Health and Human Behavior 2021 project: 
-# Classifying depressed patients using diurnal activity patterns
+## Classifying depressed patients using diurnal activity patterns
 ------------------------------------------------------------------------
 The aim of this project was to explore whether the diurnal activity patterns could be
 used in diagnosing depressed people, i.e. classifying depressed and non-depressed
